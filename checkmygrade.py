@@ -435,7 +435,7 @@ def update_student(email, new_grade, new_marks):
                 student.last_name,
                 student.course_id,
                 student.grade,
-                student.marksfmark
+                student.marks
             ])
 
     if found:
